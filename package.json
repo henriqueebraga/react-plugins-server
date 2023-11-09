@@ -1,5 +1,5 @@
 {
-    "name": "react_plugins-json-server",
+    "name": "country_list",
     "scripts": {
         "start": "node server.js",
         "watch_db": "json-server --watch db.json"
